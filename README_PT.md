@@ -17,7 +17,7 @@ Copie uma chave da tabela, cole no seu app e comece a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-5-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-13-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 
 **⭐ Star neste repo = mais chaves grátis para todos**
@@ -40,29 +40,37 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 
 ## 📋 Chaves Disponíveis
 
-> ⏰ Última atualização: 2026-05-23 20:48 (UTC+8)
+> ⏰ Última atualização: 2026-05-23 20:52 (UTC+8)
 
 ### Modelos em destaque
 
-### GPT-5.5 `05-23 20:48`
+### GPT-5.5 `05-23 20:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
-| `sk-TlNAhz6pzxlDYaoCnLkn4sA0GVSaczBTmS5BGOHvVyTdxRRg` | gpt-5.5 | 🆕 Nova | $16 | 5 RPM | 2026-05-24 | Premium GPT flagship |
-| `sk-ZHu7zQRPY9u7U2M43ncST1As3yfZfTvAYrRWa4J8ZuYqJJaU` | gpt-5.5 | 🆕 Nova | $18 | 5 RPM | 2026-05-24 | Premium GPT flagship |
-| `sk-7wBJl47jbbgMr25RohWCbteIPtnaeLOMUCAhFbhy4FmmOdtQ` | gpt-5.5 | 🆕 Nova | $18 | 5 RPM | 2026-05-24 | Premium GPT flagship |
+| `sk-iwDAaJ9gKFIzE8I2hRd0qSbcdeGmxikdb3dC1JLPwfPDDWuY` | gpt-5.5 | 🆕 Nova | $19 | 5 RPM | 2026-05-24 | Premium GPT flagship |
+| `sk-ZtNrdbkjkHkrmBajhpq0HJorG95Nb8WQ4wIOXB2c8h7vyaGT` | gpt-5.5 | 🆕 Nova | $19 | 5 RPM | 2026-05-24 | Premium GPT flagship |
+| `sk-szsIWEZ6TgJVqB8cVRSsxmzxH30IUHF5hmJDHHWeGsByIcQL` | gpt-5.5 | 🆕 Nova | $15 | 5 RPM | 2026-05-24 | Premium GPT flagship |
 
-### DeepSeek `05-23 20:48`
-
-| Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
-|-----|--------|--------|-----------|------|--------|-------------|
-| `sk-y9Y6dHDM1PeVRPcxXSSksssvyr5rGRBsuhpUK8CELZuo3DOI` | deepseek-chat | 🆕 Nova | $19 | 20 RPM | 2026-05-25 | Everyday chat, coding, translation, writing |
-
-### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `05-23 20:48`
+### DeepSeek `05-23 20:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
-| `sk-92cU7NiE9OUEHZvyZIRsodRMFCMVjgDRPvyeIjLWwP5I64ds` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-05-25 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-7oDibaqjOijnOin7HpF2nE70S7n5cBbLgfYi1uj2OXOUdkEO` | deepseek-chat | 🆕 Nova | $14 | 20 RPM | 2026-05-25 | Everyday chat, coding, translation, writing |
+| `sk-exedjdOjgHWJgLCuiNw76PIQ2fzUK8qlrecP7ZGekn0EEFm0` | deepseek-chat | 🆕 Nova | $13 | 20 RPM | 2026-05-25 | Everyday chat, coding, translation, writing |
+| `sk-JELGjZsRobc2LgoOShKj4YaF7n1CVqvU5hTU5Z8kSIQEFBke` | deepseek-chat | 🆕 Nova | $15 | 20 RPM | 2026-05-25 | Everyday chat, coding, translation, writing |
+| `sk-oSEZNponAe86shPP25Vbq5CBKJY6RptdklLaqCih7ewsRRWF` | deepseek-chat | 🆕 Nova | $17 | 20 RPM | 2026-05-25 | Everyday chat, coding, translation, writing |
+| `sk-UcKmuExDJLbSDGts4a7RLFUYvoMTGd7pV9neHuFEKmIe3d9V` | deepseek-chat | 🆕 Nova | $16 | 20 RPM | 2026-05-25 | Everyday chat, coding, translation, writing |
+
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `05-23 20:52`
+
+| Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
+|-----|--------|--------|-----------|------|--------|-------------|
+| `sk-2S9tm49JvYjTlI08kJbTCbEuAqIBlvbjmOb61kL9bPCKVfNy` | smart-chat | 🆕 Nova | $19 | 10 RPM | 2026-05-25 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-Vw6cuwTjHFIhj7vNvS9clc2ERv6KKZJm4XgXVxDtkJyqUXkR` | smart-chat | 🆕 Nova | $19 | 10 RPM | 2026-05-25 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-W9yxPmSatfoluH80cih96jAzyiZL5EKopjf5KHF8FjK8ZvWK` | smart-chat | 🆕 Nova | $19 | 10 RPM | 2026-05-25 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-WiJFzAmLyX0FBaCEJCtrgatsLhCa5UbVy1Zi8t38Bw2gHsTV` | smart-chat | 🆕 Nova | $19 | 10 RPM | 2026-05-25 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-Dfsje2BzhPASSj5RJu6cqg8XqOaeGWVvIWYDPQyiytlxl2aW` | smart-chat | 🆕 Nova | $19 | 10 RPM | 2026-05-25 | Auto-routes across currently healthy low-cost chat backends |
 
 ## 🚀 Como Usar
 
