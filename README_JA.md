@@ -155,7 +155,7 @@ print(response.choices[0].message.content)
 
 | プロバイダー | モデル | 説明 |
 |-------------|--------|------|
-| **OpenAI** | gpt-5.5, gpt-5.4-mini, gpt-4 | 最新GPT |
+| **OpenAI** | gpt-5.5, gpt-5.5-mini, gpt-4 | 最新GPT |
 | **Anthropic** | claude-opus-4-6, claude-sonnet-4-6, claude-haiku-4-5 | 最新Claude |
 | **DeepSeek** | deepseek-chat (V3), deepseek-reasoner (R1) | チャット + 推論 |
 | **Google** | gemini-3.1-flash-lite, gemini-3.1-flash-image | Gemini 3.1 |
