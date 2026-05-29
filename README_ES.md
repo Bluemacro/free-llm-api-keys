@@ -19,8 +19,11 @@ Copia una clave de la tabla, pégala en tu app y empieza a construir
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
 [![Keys](https://img.shields.io/badge/Claves_Disponibles-28-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
+[![Follow on X](https://img.shields.io/badge/Sigue_en_X-nuevas_claves-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
 **⭐ Star este repo = más claves gratis para todos**
+<br>
+**🔔 [Sigue a @getkeyway en X](https://x.com/getkeyway) para nuevas claves, modelos y estado del servicio**
 
 [English](./README.md) | [中文](./README_CN.md) | [日本語](./README_JA.md) | [한국어](./README_KO.md) | Español | [Português](./README_PT.md)
 

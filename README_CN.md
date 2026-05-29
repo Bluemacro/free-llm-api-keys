@@ -19,8 +19,11 @@
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
 [![Keys](https://img.shields.io/badge/可用_Key-28-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/支持模型-90+-blue?style=for-the-badge)]()
+[![Follow on X](https://img.shields.io/badge/在_X_关注-获取新key-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
 **⭐ Star 本项目 = 更多免费 Key 给大家**
+<br>
+**🔔 [在 X 关注 @getkeyway](https://x.com/getkeyway)，获取新 key 投放、新模型上线和可用性提醒**
 
 [English](./README.md) | 中文 | [日本語](./README_JA.md) | [한국어](./README_KO.md) | [Español](./README_ES.md) | [Português](./README_PT.md)
 
