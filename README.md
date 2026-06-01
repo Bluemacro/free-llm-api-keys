@@ -58,7 +58,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-01 17:07 (UTC+8)
+> ⏰ Last updated: 2026-06-01 17:22 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -72,7 +72,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. If a target model has no KM recommendation or quota, it tries a quota-backed KM-recommended model in the same capability; otherwise that shelf stays hidden.
 
-### GPT-5.5 `06-01 17:07`
+### GPT-5.5 `06-01 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -83,7 +83,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Claude Opus 4.7 `06-01 17:07`
+### Claude Opus 4.7 `06-01 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -95,7 +95,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Gemini `06-01 17:07`
+### Gemini `06-01 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -108,7 +108,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### DeepSeek `06-01 17:07`
+### DeepSeek `06-01 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -118,25 +118,25 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-01 17:07`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-01 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-nQZGF5es4SOtac0WdpY8ivy8878NhNOD7JOzWTkpgySUsBju` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-3e3YPH6VZCi9lhqJNGoVj2pElWBs8it45QhoEkQ3QKTnKfD8` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-acZh2GxG568ZF98jJR8eCbLQh2fzdfMod4DXK3SwRlAmXlbQ` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
 
 ---
 
-### Kimi `06-01 17:07`
+### Kimi `06-01 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-DjMJlpffhj4DRLc5TVCXgNDKdcLzaEKGWAeSEPW5wxNewNcY` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-O6QJhFxwiJqhneJGBd0ykvj3pKo3ioZ0V8ehZy6n85gxdxoq` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-8hGR65NGWp3u5PBqQU3eRqf8JWAj2PybH5BIFAN6dBZtQhlH` | kimi-k2.5 | 🆕 New | $5 | 10 RPM | 2026-06-03 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-01 17:07`
+### Image / Audio / Embedding `06-01 17:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -333,6 +333,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-01
+- 🆕 Added 2 keys (kimi-k2.5), cleaned 2 expired
 - 🆕 Added 1 keys (kimi-k2.5), cleaned 6 expired
 - 🆕 Added 4 keys (kimi-k2.5), cleaned 2 expired
 - 🆕 Added 17 keys (claude-opus-4-7, smart-chat, kimi-k2.5), cleaned 1 expired
