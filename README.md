@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-21-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-33-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -58,7 +58,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-06 17:20 (UTC+8)
+> ⏰ Last updated: 2026-06-06 17:23 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -72,7 +72,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models appear under More Available Models.
 
-### Gemini `06-06 17:20`
+### Gemini `06-06 17:23`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -85,7 +85,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-06 17:20`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-06 17:23`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -98,7 +98,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-06 17:20`
+### Kimi `06-06 17:23`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -111,13 +111,32 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Image / Audio / Embedding `06-06 17:20`
+### Image / Audio / Embedding `06-06 17:23`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-YLhfjC7KUwg147FD1DBODUkODHWXOxU3A1kNaIkNY0H4xll7` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-08 | Text embeddings |
 | `sk-1BuHOUNN8yaoIavpGG6LuhRA1gu1cWWrBMBe1bJ09o5BIpuN` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-08 | Text embeddings |
 | `sk-eSiXtzYDNThMQgh9RkWWzwkyNGQCgopV3J9WBSsLviOob0gV` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-08 | Text embeddings |
+
+---
+
+### More Available Models `06-06 17:23`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-f2xpAdGNzQFLfh0xzDa7XeqnGx8jL9l9RHMTFOo1I3eW45KN` | poolside/laguna-m.1:free | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-TJw5Crr46lRPxF7ojL2mPHOBPjhJnZJ521WDKqBKBhrHbdaN` | perceptron/perceptron-mk1 | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-MMcVqB9FvK4UJrakFSxHcMSkN833vYvQ4r61F4XFnWDrcLiW` | openrouter/owl-alpha | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-G3aMMicaJNw06qc8GNjnrvmpYIdtJOup1a165rd6dTKVHwsX` | openai/gpt-chat-latest | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-nPJFAAjNKrCg7UICNA4rLzILY9m2gKa1YhYrgmaGhV27HAtC` | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-2Eix3RlCtgvKV4w0swAffnTseWxZ1xrYQIoEOLuqgQfLbJ6Z` | mistralai/mistral-medium-3-5 | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-5vm4ATddBdc7MWZTEHfsnStFlEfBMbF2jKWnhoWYkdW9EWgB` | inclusionai/ring-2.6-1t | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-IjhRsDYiIePQrTtbiM0LJLimEepJD7TwXtd62GrVK1pW5naW` | ibm-granite/granite-4.1-8b | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-UYsTxDHjcpDnBbk0K1Aobh0shnGnMBlc0guVng5IQbnvZ8Vb` | google/gemini-3.1-flash-lite | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-pkARKatK3mvwb1XRMQJRW8XakLx9dfz1Lym8rs1NUKqawlJm` | baidu/cobuddy:free | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-ffN0CNagkCjKiIgX3pwuDHvmHNMddEpGbH7cEnKvXTxqNIf3` | deepseek-v4-pro | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
+| `sk-hi5wFTcJnrlpv87ePwqByYVTyx7rYUL760eYtUAOjjTJUpCp` | deepseek-v4-flash | 🆕 New | $20 | 10 RPM | 2026-06-07 | Extra model with a live positive-balance channel |
 
 
 ## 🚀 How to Use
@@ -308,6 +327,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-06
+- 🆕 Added 12 keys (poolside/laguna-m.1:free, perceptron/perceptron-mk1, openrouter/owl-alpha, openai/gpt-chat-latest, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, mistralai/mistral-medium-3-5, inclusionai/ring-2.6-1t, ibm-granite/granite-4.1-8b, google/gemini-3.1-flash-lite, baidu/cobuddy:free, deepseek-v4-pro, deepseek-v4-flash), cleaned 1 expired
 - 🆕 Added 33 keys (gemini-2.5-flash, smart-chat, kimi-k2.5, text-embedding-3-small, deepseek-v4-flash, deepseek-v4-pro, baidu/cobuddy:free, google/gemini-3.1-flash-lite, ibm-granite/granite-4.1-8b, inclusionai/ring-2.6-1t, mistralai/mistral-medium-3-5, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, openai/gpt-chat-latest, openrouter/owl-alpha, perceptron/perceptron-mk1, poolside/laguna-m.1:free), cleaned 17 expired
 
 ### 2026-06-04
