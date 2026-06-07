@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-41-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-39-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-07 23:52 (UTC+8)
+> ⏰ Last updated: 2026-06-08 00:07 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,7 +85,12 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### Claude Opus 4.7 `06-07 23:52`
+
+<!-- daily-grant-keylist:start -->
+> 🎁 Want private 24h access to selected models? Join the daily grant on X: [@getkeyway](https://x.com/getkeyway). Latest post: [2026-06-07 · x-ai/grok-4.3](https://x.com/getkeyway/status/2063504119227372006). Stars are optional and never required to win.
+<!-- daily-grant-keylist:end -->
+
+### Claude Opus 4.7 `06-08 00:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -96,7 +101,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-07 23:52`
+### Gemini `06-08 00:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -109,15 +114,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-07 23:52`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-5XcxAFPeNR6BhKdASSzorciXCYhbWHi5kP0zHTtnIbQICUfQ` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-09 | Auto-routes across currently healthy low-cost chat backends |
-
----
-
-### Kimi `06-07 23:52`
+### Kimi `06-08 00:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -129,7 +126,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Image / Audio / Embedding `06-07 23:52`
+### Image / Audio / Embedding `06-08 00:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -148,7 +145,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-7bGL7P6YHlRwk6ZJVu5nFOGOsVXSeIGf7r36v2masMeu6pZe` | deepseek-v4-pro | 🆕 New | $20 | 10 RPM | 2026-06-08 | Live positive-balance channel |
 
 ---
 
@@ -520,6 +516,9 @@ If this repo helped you, you may also like:
 
 <details>
 <summary><b>Show changelog history</b></summary>
+
+### 2026-06-08
+- 🆕 Added 0 keys (no new keys), cleaned 3 expired
 
 ### 2026-06-07
 - 🆕 Added 17 keys (smart-chat, kimi-k2.5, deepseek-v4-flash, deepseek-v4-pro, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, openrouter/owl-alpha, poolside/laguna-xs.2:free), cleaned 1 expired
