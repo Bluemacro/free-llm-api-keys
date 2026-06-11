@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-42-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-43-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-12 04:31 (UTC+8)
+> ⏰ Last updated: 2026-06-12 04:37 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,7 +85,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### Gemini `06-12 04:31`
+### Gemini `06-12 04:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -98,7 +98,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-12 04:31`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-12 04:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -111,16 +111,18 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-12 04:31`
+### Kimi `06-12 04:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-hLWjx9VHZRigeZEsbfMw6aruc28DMBnA4Gla9GVeK4Y31iDt` | kimi-k2.5 | 🆕 New | $15 | 10 RPM | 2026-06-13 | Kimi long-context general model |
-| `sk-JxWg2BmQ8XcsGf5ulfJLVFpIcHc5q2YxWRwuLbVVba7Q9iDY` | kimi-k2.5 | 🆕 New | $16 | 10 RPM | 2026-06-13 | Kimi long-context general model |
+| `sk-QwaOKdSdEfcCTBsng24S6NUm8I3moYkHz03jKfbRmm9GQ4sP` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-13 | Kimi long-context general model |
+| `sk-mmJNWfbzZkiEG41qb5wQlgK8lhoKtnFdn7aE9KIA2T3SMwNP` | kimi-k2.5 | 🆕 New | $17 | 10 RPM | 2026-06-13 | Kimi long-context general model |
+| `sk-P1onpqtDBtdo2nqRwvG1s2Zj58RHowPRCtIwqNSYoazysp7M` | kimi-k2.5 | 🆕 New | $10 | 10 RPM | 2026-06-13 | Kimi long-context general model |
+| `sk-i5eo7cYE7PR4tvZdf7ijskRApfRnibclTDoOhDobSjPvpyjb` | kimi-k2.5 | 🆕 New | $9 | 10 RPM | 2026-06-13 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-12 04:31`
+### Image / Audio / Embedding `06-12 04:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -320,14 +322,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### qwen/qwen3.6-flash `06-11 04:31`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-aIfVrpotqBzhdcyEYN7FXWdQUriUwZsSRALl38XZqz8fAqkJ` | qwen/qwen3.6-flash | 🆕 New | $20 | 10 RPM | 2026-06-11 | Live positive-balance channel |
-
----
-
 
 ## 🚀 How to Use
 
@@ -517,6 +511,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-12
+- 🆕 Added 4 keys (kimi-k2.5), cleaned 2 expired
 - 🆕 Added 9 keys (smart-chat, deepseek-v4-pro, kimi-k2.5), cleaned 1 expired
 - 🆕 Added 4 keys (kimi-k2.5), cleaned 1 expired
 - 🆕 Added 2 keys (kimi-k2.5), cleaned 6 expired
