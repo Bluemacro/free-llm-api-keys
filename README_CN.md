@@ -17,7 +17,7 @@
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/可用_Key-29-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/可用_Key-52-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/支持模型-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/在_X_关注-获取新key-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -70,7 +70,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-06-16 02:22 (UTC+8)
+> ⏰ 最后更新： 2026-06-16 02:30 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -84,12 +84,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 覆盖 GPT-5.5、Claude Opus 4.7、Gemini、DeepSeek、smart-chat、Kimi、图像、语音和向量模型。
 发布器只展示真实 Key；主货架只展示对应模型的直接 Key，额外有余额模型会按模型名单独列出。
 
-
-<!-- daily-grant-keylist:start -->
-> 🎁 想要指定模型的私有 24 小时访问权限？关注 X 上的每日 grant：[@getkeyway](https://x.com/getkeyway)。最新活动帖：[2026-06-09 · x-ai/grok-4.3](https://x.com/getkeyway/status/2064238449427980781)。Star 是可选支持，不是参与或中奖条件。
-<!-- daily-grant-keylist:end -->
-
-### Claude Opus 4.7 `06-16 02:22`
+### Claude Opus 4.7 `06-16 02:30`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -102,7 +97,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Gemini `06-16 02:22`
+### Gemini `06-16 02:30`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -115,21 +110,135 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Kimi `06-16 02:22`
+### 多模型聚合（GPT-5.5 / Claude / DeepSeek / Gemini 自动轮询） `06-16 02:30`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-YRC828K0DAanbboYfplCN2GszGxiQnYsPR4SXkuEu6YVD0m1` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-17 | Kimi 长上下文通用模型 |
+| `sk-2lidsy2tVPonz3EjzBhz89SHcEBJApA8fwp0RCzhpd8RAl8i` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | 自动路由到当前健康的低成本聊天模型 |
+| `sk-99EpKaBrqfXaAaxODiZb5xQB1VQhDz7Bc5hBpxtJYst34wPT` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | 自动路由到当前健康的低成本聊天模型 |
+| `sk-D58MS3rsMPa5VlEkzSoyI2j3Oh1unBoJWJVQQo75Q7XVfonm` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | 自动路由到当前健康的低成本聊天模型 |
+| `sk-7yYXxs8xBwxdROGGPAy7jdDQpS2mx1v3PIB0Uq7pYaxZXmpp` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | 自动路由到当前健康的低成本聊天模型 |
+| `sk-jEKb903q6S2LK0RF7WFJC0LoAa08HjXDwucy1a36Exx6GTSC` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | 自动路由到当前健康的低成本聊天模型 |
+| `sk-Z9R6y7bOWntkDWHNd4pbPgVZWbXDzqgbYfXW0oJ48Nh0lbrD` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | 自动路由到当前健康的低成本聊天模型 |
 
 ---
 
-### 图像 / 语音 / 向量化 `06-16 02:22`
+### Kimi `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-q9SFR1JuCPdRfejoaiDVItaqJH7LHRkdx2788GDGV4K29feP` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | Kimi 长上下文通用模型 |
+| `sk-MNtLvKp3lb2xidFLkHrHY99JZNcSIBheGrfUN9fCDw0YDjbh` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | Kimi 长上下文通用模型 |
+| `sk-xi4YTVeaqdBeQ4bKRhRqU2HI5bgoZBj4dSG9GxMzV0vIzVqW` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | Kimi 长上下文通用模型 |
+| `sk-2K8o2RSWGKFMXbEcvAYhfWBDazh47PBKyz6LNlDVuuDFCpQX` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | Kimi 长上下文通用模型 |
+| `sk-DkKxR5l8VBA0YjMLP1JThxHC3gLFxvCt1qzyL5pQc2AvpzkE` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | Kimi 长上下文通用模型 |
+| `sk-S0fnt1ku7BpLJHsH6Xm1lz9iGKPwfFZGBMkOBf79F4rjTnzA` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-17 | Kimi 长上下文通用模型 |
+
+---
+
+### 图像 / 语音 / 向量化 `06-16 02:30`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
 | `sk-OJDNZeiBPKvdqZxIa29q20YsFYpUx1yUYNe2HMPxz87mdOJe` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-16 | 文本向量化 |
 | `sk-oLJIiPS8ZoWoAoEMYUQ1nEDDuMT2gq6DI8y6CZhjG501qkYU` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-16 | 文本向量化 |
 | `sk-ZmZkSjnWcczHpf4bhVmznqSnEd8g8zgvAkTIIg0nWOuCjKMS` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-16 | 文本向量化 |
+
+### deepseek-v4-flash `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-4CwBvGd5JmF69syZjNuVAefPO9JV53g0HR40PZ9zGykwcHMZ` | deepseek-v4-flash | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### deepseek-v4-pro `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-ECZmEnYf4kOhK7XpBrFZBoucvkMGdT3J3hT4AynlgJTU3HXE` | deepseek-v4-pro | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### google/gemini-3.1-flash-lite `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-jCcfH8tdiNm28pvcb1hGVLNhlP0DyXEs3RtLD6hlIITWJFYU` | google/gemini-3.1-flash-lite | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### ibm-granite/granite-4.1-8b `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-TomdGV4mBs9nr0tDbJX5TGCQXNM76JldMKDmlMSzQwr9IijP` | ibm-granite/granite-4.1-8b | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### inclusionai/ring-2.6-1t `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-XI3vk3LZf7OirGbZYGgyZDGPNh1RHTPWoltYKbOKIpjmbCOW` | inclusionai/ring-2.6-1t | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-51x7Oi5eAYnXwCWA5t4cptLtxq8pcs0mBBQGWou6H21QmRpH` | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### openai/gpt-chat-latest `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-mnYCe9cBTyWMUiTNZwYGAw4y4l0CoEmTexdVT1csjw5QYJGs` | openai/gpt-chat-latest | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### openrouter/owl-alpha `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-OXhS1PnYS2XhQc5UBULPWNiSGmEemaHye01Vc0XVlvp6eyG3` | openrouter/owl-alpha | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### poolside/laguna-m.1:free `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-7xiXMAe39bIqDCcA8zraH2UZ0e0kkelLY8bztMcqI1y7eEo0` | poolside/laguna-m.1:free | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### poolside/laguna-xs.2:free `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-7LkfCpoTd2d2nu094QsUFHuRT7QuUxakVyb8Du6bawWJoGtb` | poolside/laguna-xs.2:free | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### x-ai/grok-4.3 `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-25xrCXxh0DZaY9BilnikTEvOIfWt6UHfanxnhnLLDlNljr7F` | x-ai/grok-4.3 | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
+
+### qwen/qwen3.6-35b-a3b `06-16 02:30`
+
+| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
+|-----|------|------|------|---------|---------|------|
+| `sk-8Mh3G8pyhvafDOHwVFuDfI6tSGqp33PDZ98PvdYw6HLMxUYt` | qwen/qwen3.6-35b-a3b | 🆕 新增 | $20 | 10 RPM | 2026-06-16 | 来自有余额渠道的额外可用模型 |
+
+---
 
 ### qwen/qwen3.6-flash `06-15 12:30`
 
