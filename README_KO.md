@@ -57,11 +57,11 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-06-16 18:37 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-06-16 18:52 (UTC+8)
 
 ### 주요 모델
 
-### Claude Opus 4.7 `06-16 18:37`
+### Claude Opus 4.7 `06-16 18:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -72,7 +72,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-l1y11wVV1t1Bo1bHijjSQjn1aCNebgf3fhtLz7zZg61IfVAr` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-18 | Claude Opus flagship |
 | `sk-FdL9Ej9GoPAtISe7FihuJFbb2rpuLi6yXCfVC2Q2eBakp6R7` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-18 | Claude Opus flagship |
 
-### Gemini `06-16 18:37`
+### Gemini `06-16 18:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -83,24 +83,24 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-m1pmqqkO60FNQiEvb7zMRQPe6tOj2JUa8zjqBQG4Vu9MMbsG` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-16 | Fast Gemini option for long-context general chat |
 | `sk-MsLMVROXmo9ut4byG4LabVELpiOEwzCnkHOqX778ZfogCo5v` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-16 | Fast Gemini option for long-context general chat |
 
-### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `06-16 18:37`
+### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `06-16 18:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-kw8o8tT4DHQebJeAkGtRdTPpGq3zNk6j1IhRI31JSpOO9mcC` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-fe7U0kGaL9d48L0hJxplwvImYxsEDiwfUklkefUFRib3cHFv` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-mi51EAsLsgzLIMYRSKsYCK12xY1PVg0ZtbFK5AQdeQvyeOWY` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-bCY178BKXXz5zGhvCgG1vLmVBUC9JX0ayCCqX1p6UwfeEn2v` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-uo5Z6PZTCDR2ys658M7b0eacF4QasT6sfGhL42xlOGa0oFh0` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-RpT4rNhs4Kmg79lRi6j1yLdro9xM1PKkqvIDJMIL7hpp5lLT` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `06-16 18:37`
+### Kimi `06-16 18:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-DJ1fBtulUuXTrBaHrmnr9p9p4fdgjs86FY1PLq1UkFop9NC1` | kimi-k2.5 | 🆕 신규 | $9 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-vrv1MN0qeERZybO4MuSZBtrHcnIpJeLvmQQEy6NmOkHNNkxy` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-pdvjVtd36HbW1uKyt5jNWjsyEoWO71z6QrgBSpo7RYBHUfuK` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-xw8zATmB4FjVkC6gjh2QiHvHCRPpulELo5wrhorYJPBTfJaR` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-Gri56vtb3eM2Wlk9nSxZrsJdsgXyNh3e6epnqtVYVjy8mrmT` | kimi-k2.5 | 🆕 신규 | $16 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-EwoMeb44T2neEu47bl79Gz3ExlOUORi5LLERcxOEBYqHJUWD` | kimi-k2.5 | 🆕 신규 | $14 | 10 RPM | 2026-06-18 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-16 18:37`
+### Image / Audio / Embedding `06-16 18:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
