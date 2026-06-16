@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-16 23:22 (UTC+8)
+> ⏰ Last updated: 2026-06-16 23:37 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,15 +85,19 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### Claude Opus 4.7 `06-16 23:22`
+### Claude Opus 4.7 `06-16 23:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-Ko41fbaY8RWa1F5CsWRx29z37KDGSwghotHOTFR8ZpxQAmjI` | claude-opus-4-7 | 🆕 New | $20 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-FdL9Ej9GoPAtISe7FihuJFbb2rpuLi6yXCfVC2Q2eBakp6R7` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-l1y11wVV1t1Bo1bHijjSQjn1aCNebgf3fhtLz7zZg61IfVAr` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-FFeCdCNr0q87U3KxL4Yk4b43XlExLSb2zJxvxsxBkI0RhknE` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-r2U9eBeefc2bozPLK54ycSI8Z5kJrLRfPeZGA507xffRHD7S` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-6QKd19iDga9wevkxASe8zPHOCu0D3FKwCrNfqsXq5Fl8hOXi` | claude-opus-4-7 | 🆕 New | $14 | 5 RPM | 2026-06-18 | Claude Opus flagship |
 
 ---
 
-### Gemini `06-16 23:22`
+### Gemini `06-16 23:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -106,15 +110,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-16 23:22`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-hWT846HAC0xcW8vIXBf0PEkjldvFVOmE0RDctYUWMKMQqi4b` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-18 | Kimi long-context general model |
-
----
-
-### Image / Audio / Embedding `06-16 23:22`
+### Image / Audio / Embedding `06-16 23:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -122,27 +118,11 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | `sk-oLJIiPS8ZoWoAoEMYUQ1nEDDuMT2gq6DI8y6CZhjG501qkYU` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-16 | Text embeddings |
 | `sk-ZmZkSjnWcczHpf4bhVmznqSnEd8g8zgvAkTIIg0nWOuCjKMS` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-16 | Text embeddings |
 
-### inclusionai/ring-2.6-1t `06-16 22:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-TwaM6aysi0BiLvzGCwYAzTjuq2GaAdrus6NdfqQf3wxzRYp7` | inclusionai/ring-2.6-1t | 🆕 New | $20 | 10 RPM | 2026-06-17 | Live positive-balance channel |
-
----
-
 ### nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free `06-16 22:30`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-95Ssg5bapLTUW3jEp69SIMNooRKbyKgFSVxY1TxrGHFso0GA` | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free | 🆕 New | $20 | 10 RPM | 2026-06-17 | Live positive-balance channel |
-
----
-
-### openai/gpt-chat-latest `06-16 22:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-nILFxapd1Y5fARDA76k7FOEdMFoQWOFzmDIDYlEWdhzB8Key` | openai/gpt-chat-latest | 🆕 New | $20 | 10 RPM | 2026-06-17 | Live positive-balance channel |
 
 ---
 
@@ -167,14 +147,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-TQGZmEiDTuoG84uAPjBpxVrKAaxuvGXu6NG3koWldpGRCM04` | nvidia/nemotron-3.5-content-safety:free | 🆕 New | $20 | 10 RPM | 2026-06-17 | Live positive-balance channel |
-
----
-
-### mistralai/mistral-medium-3-5 `06-16 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-PB7aGikOvjBEMsaIop540M0LPg3mYqL74FysyDODe9uLkWV9` | mistralai/mistral-medium-3-5 | 🆕 New | $20 | 10 RPM | 2026-06-17 | Live positive-balance channel |
 
 ---
 
@@ -479,6 +451,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-16
+- 🆕 Added 5 keys (claude-opus-4-7), cleaned 5 expired
 - 🆕 Added 1 keys (claude-opus-4-7), cleaned 1 expired
 - 🆕 Added 5 keys (claude-opus-4-7), cleaned 10 expired
 - 🆕 Added 1 keys (claude-opus-4-7), cleaned 7 expired
